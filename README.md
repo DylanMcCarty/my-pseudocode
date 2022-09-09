@@ -6,4 +6,4 @@ of thing and the order in which they are to be done for my desired topic
 
 ## Topic
 -----------
-describing how an elevator works.
+describing how to make coffee
