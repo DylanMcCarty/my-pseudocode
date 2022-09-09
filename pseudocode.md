@@ -14,6 +14,7 @@ coffee maker reservoir
 
 coffee grounds container
 
+coffee maker button
 # Functions
 
 POUR
@@ -27,6 +28,8 @@ COMBINE
 REMOVE
 
 PLACE
+
+PRESS
 
 --------------------
 PSEUDOCODE
@@ -70,8 +73,10 @@ function fillContainerTo (4-cups) {
 POUR Coffee.maker-(pot) -> coffee.makerReservoir
 
 COMBINE (coffee.maker-(pot) => ,coffee.maker)
-```
 
+PRESS coffee.maker-(btn)
+```
+Enjoy fresh pot of coffee!!!
 
   
 
