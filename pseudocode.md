@@ -31,12 +31,16 @@ PLACE
 
 PRESS
 
+RUN CODE
+
 --------------------
 PSEUDOCODE
 ----------
 
 
 ```
+RUN CODE
+
 const water = faucet 
 var coffee.makerReservoir
 
@@ -75,6 +79,7 @@ POUR Coffee.maker-(pot) -> coffee.makerReservoir
 COMBINE (coffee.maker-(pot) => ,coffee.maker)
 
 PRESS coffee.maker-(btn)
+
 ```
 Enjoy fresh pot of coffee!!!
 
