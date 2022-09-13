@@ -7,7 +7,8 @@
 1. Drip coffee machine
 2. Using pre ground coffee beans 
 3. Using paper coffee filters 
-4. water is easily accessible and can be inserted to the machine easily
+4. Water is easily accessible and can be inserted to the machine easily
+5. The coffee maker opens up to be able to insert contents
 
 # Variables
 ```
@@ -18,6 +19,9 @@ Water - water already in a container ready to be inserted into the coffee machin
 ```
 
 # Pseudocode
+
+```
+FUNCTION  
 
 
 
