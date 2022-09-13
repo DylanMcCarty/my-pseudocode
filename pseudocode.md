@@ -1,88 +1,24 @@
-# ALL VARIABLES
----------------
-Faucet
+# Assignment
+  
+#### Making coffee using a drip coffee machine
 
-coffee
+# Assumptions
 
-filter
+1. Drip coffee machine
+2. Using pre ground coffee beans 
+3. Using paper coffee filters 
+4. water is easily accessible and can be inserted to the machine easily
 
-grounds
-
-coffee maker
-
-coffee maker reservoir 
-
-coffee grounds container
-
-coffee maker button
-# Functions
-
-POUR
-
-GRAB
-
-OPEN
-
-COMBINE
-
-REMOVE
-
-PLACE
-
-PRESS
-
-RUN CODE
-
---------------------
-PSEUDOCODE
-----------
-
-
+# Variables
 ```
-RUN CODE
-
-const water = faucet 
-var coffee.makerReservoir
-
-function = fillContainerTo (x)
-
-GRAB (coffee) {
-  filter
-  grounds
-  maker
-  }
-  
-OPEN (coffee) {
-  grounds
-  maker
-  }
-  
-COMBINE (filter => ,maker) = coffeeGroundContainer
-
-POUR {(1 cup) Grounds} + coffeeGroundContainer 
-
-coffee.maker -> contains {
-  pot
-  }
-
-REMOVE coffee.maker-(pot)
-
-PLACE coffee.maker-(pot)
-  under: faucet;
-  
-function fillContainerTo (4-cups) {
-  coffee.maker-(pot)
-  }
-  
-POUR Coffee.maker-(pot) -> coffee.makerReservoir
-
-COMBINE (coffee.maker-(pot) => ,coffee.maker)
-
-PRESS coffee.maker-(btn)
-
+Coffee machine - the main device in the process
+Filter - the filter that is inserted into the grounds container before the grounds
+Grounds - the coffee beans themselves that are preground
+Water - water already in a container ready to be inserted into the coffee machine
 ```
-Enjoy fresh pot of coffee!!!
 
-  
+# Pseudocode
+
+
 
 
