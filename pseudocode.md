@@ -60,6 +60,8 @@ FUNCTION brew coffee
     BREW COFFEE immediately
   ELSE 
     BREW COFFEE = DESIRED TIME
+    
+RUN
 ```
 ### Enjoy coffee!
 
